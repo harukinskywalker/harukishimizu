@@ -66,7 +66,7 @@ p {
 /* Links */
 
 a {
-  color: #1abc9c;
+  color: #2891AD;
   word-wrap: break-word;
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
   -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -337,21 +337,6 @@ SECTION WRAPS
   border: solid 2px #5FC2DC;
   background: #5FC2DC;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Copyright Wrap */
 
