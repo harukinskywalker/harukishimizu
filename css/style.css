@@ -281,6 +281,14 @@ SECTION WRAPS
   color: white;
 }
 
+#awards .margin-bottom-3rem {
+  margin-bottom: 3rem;
+}
+
+#awards p {
+  margin: 0 0 0.5em;
+}
+
 
 /* Works Wrap */
 #works iframe {
